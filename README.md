@@ -31,7 +31,6 @@
 
 ### **Version Control & Deployment**  
 - **Tools:** Git, GitHub, Vercel, Render  
-- **APIs:** OSRM Map API, GPT API  
 
 ## 📫 Connect With Me  
 📧 Email: [sujalsh5@gmail.com](mailto:sujalsh5@gmail.com)  
